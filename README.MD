@@ -52,9 +52,9 @@ Before running the application, ensure you have:
 * Python 3.x installed.
 * pip (Python package installer) for library management.
 * Install the necessary Python libraries:
- ```bash
+  ```bash
     pip install opencv-python flask numpy
- ```
+  ```
 
 ---
 
